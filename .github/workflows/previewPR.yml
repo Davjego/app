@@ -1,6 +1,7 @@
 name: pullrequest preview
 
 on: [pull_request]
+
 jobs:
   preview:
     runs-on: ubuntu-latest
